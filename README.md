@@ -27,8 +27,8 @@ That file comprises the majority of the work in this project.
 
 Please download the following to get started...
 
-Vagrant         [https://www.vagrantup.com/downloads.html]
-Virtual Box     [https://www.virtualbox.org/wiki/Downloads]
+* Vagrant         [https://www.vagrantup.com/downloads.html]
+* Virtual Box     [https://www.virtualbox.org/wiki/Downloads]
 
 **NOTE**: _if you've never used Vagrant before, go through their [getting started guide][https://www.vagrantup.com/docs/getting-started/].
  It's pretty simple and fairly easy to get through. You'll be up and running in minutes._
