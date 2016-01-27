@@ -47,8 +47,8 @@ If you've never installed a box using Vagrant before, you'll need to add a new b
 
 ## CONFIGURATION
 
-Port Forwarding:    Replace "host: 8080" with your own desired port (if you wish)
-Synced Files:       Replace "/Users/jmac/vm/.." with the path to your cloned repo (line 15) to ensure the configuration is correct.
+* Port Forwarding:    Replace "host: 8080" with your own desired port (if you wish)
+* Synced Files:       Replace "/Users/jmac/vm/.." with the path to your cloned repo (line 15) to ensure the configuration is correct.
 
 ## USAGE
 
